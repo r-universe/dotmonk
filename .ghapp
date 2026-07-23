@@ -1,0 +1,10 @@
+{
+  "id": 148570434,
+  "created_at": "2026-07-23T18:59:44.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["dotmonk.r-universe.dev"]
+}
